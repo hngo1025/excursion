@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: black;
+	font-family: verdana, sans-serif;
+	font-size: 16px;
+	color: gray;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+}
+
+h2{
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+}
+
+a {
+	color: aquamarine;
+}
+
+.guide p{
+	font-size: 21px;
+}
+
+footer {
+	text-align: right;
+}
